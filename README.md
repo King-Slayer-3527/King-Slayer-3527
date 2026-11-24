@@ -66,13 +66,6 @@ public class Developer {
   </a>
 </div>
 
----
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Slayer-3527&theme=tokyo-night&bg_color=0D1117&color=6c8cff&line=6c8cff&point=38d9a9&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
 
 ---
 
