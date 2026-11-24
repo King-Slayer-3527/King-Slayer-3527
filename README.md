@@ -62,8 +62,16 @@ public class Developer {
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=King-Slayer-3527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=King-Slayer-3527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
+</div>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=King-Slayer-3527&theme=tokyo-night&bg_color=0D1117&color=6c8cff&line=6c8cff&point=38d9a9&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
