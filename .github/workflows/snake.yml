@@ -2,8 +2,8 @@ name: Generate Snake Contribution Animation
 
 on:
   schedule:
-    # Runs every 24 hours
-    - cron: "0 0 * * *"
+    # Auto-updates every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -24,6 +24,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
